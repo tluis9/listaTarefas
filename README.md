@@ -7,7 +7,7 @@
 </div>
 
 <h3 align = "center">
-  Um app simples que lista suas tarefas (To-do-List)! 💸
+  Um app simples que lista suas tarefas (To-do-List)! 🗒️
 </h3>
 
 <h4 align = "center">
